@@ -1,11 +1,11 @@
-// Javascript Array 
+// Javascript Array adding to the beginning and ending of Array.
 var myArray = ['a','b','c','d'];
 myArray.push('end');
 myArray.unshift('beginning');
 
 console.log(myArray);
 
-// ES-6
+// ES-6  Spread Operator ...
 
 var myArray_2 = ['a', 'b', 'c', 'd'];
 
